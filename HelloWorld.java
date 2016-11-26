@@ -1,4 +1,4 @@
-@import java.*;
+import java.*;
 
 public class HelloWorld{
 
